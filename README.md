@@ -5,7 +5,11 @@ Given knowledge of events relating to my illegal detainment, I intend to follow 
 Use of and/or profit from patented items will be illegal. 
 
 Corporate Teams: 
+
+
+
   McDonalds
+  
   Target
 
 Individuals: 
