@@ -2,15 +2,16 @@
 
 Use of and/or profit from patented items will be illegal. 
 
-Corporate Teams
+Corporate Teams: 
   McDonalds
   Target
 
-Individuals
+Individuals: 
   Jeff Bezos
   Elon Musk
+  Gabe Newell
 
-Organizations
+Organizations: 
   FBI Involvees
   SKial Involvees
   CSULB student & Professor Involvees
