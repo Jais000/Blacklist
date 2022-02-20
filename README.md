@@ -15,5 +15,7 @@ Organizations:
   FBI Involvees
   SKial Involvees
   CSULB student & Professor Involvees
+  Tesla Involvees
+  Valve involvees
 
 Regions:  France
