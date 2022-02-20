@@ -15,3 +15,5 @@ Organizations:
   FBI Involvees
   SKial Involvees
   CSULB student & Professor Involvees
+
+Regions:  France
